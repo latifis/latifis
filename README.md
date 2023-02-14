@@ -3,7 +3,8 @@ My name is Latief
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=latifis&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latifis&layout=compact&theme=gotham&custom_title=Statistics)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=latifis&theme=material&border_radius=52.3&background=C5EBD300)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=latifis&theme=material&border_radius=5.3&background=C5EBD300)](https://git.io/streak-stats)
+<br>
 ![ViewCount](https://komarev.com/ghpvc/?username=latifis&color=1A4730)
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
