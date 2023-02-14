@@ -1,6 +1,7 @@
 ### Hi there 👋  
 My name is Latief
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=latifis&theme=algolia" alt="latif"  /></p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=latifis&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latifis&layout=compact&theme=gotham&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=latifis&color=1A4730)
