@@ -2,7 +2,7 @@
 My name is Latief
 <br>
 ### My Stats 🔥
-<p align=center>[![GitHub Streak](https://streak-stats.demolab.com?user=latifis&theme=material&border_radius=5.3&background=C5EBD300)](https://git.io/streak-stats)</p>
+<a align=center>![GitHub Streak](https://streak-stats.demolab.com?user=latifis&theme=material&border_radius=5.3&background=C5EBD300)](https://git.io/streak-stats)</a>
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=latifis&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latifis&layout=compact&theme=gotham&custom_title=Statistics)  
